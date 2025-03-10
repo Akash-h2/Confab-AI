@@ -7,6 +7,7 @@ function App() {
 
     <>
      <Chatbox/>
+     <p className='text-center bg-gray-950 text-amber-100'>© 2025 All Rights Reserved | Akash Kanaujiya 🤍</p>
     </>
   )
 }

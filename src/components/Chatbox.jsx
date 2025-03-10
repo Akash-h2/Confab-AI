@@ -65,6 +65,7 @@ const Chatbox = () => {
                     </p>
                 </div>
             </div>
+           
         </div>
     );
 };
